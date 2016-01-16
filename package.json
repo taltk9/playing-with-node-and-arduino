@@ -1,0 +1,24 @@
+{
+  "name": "node.arduino",
+  "version": "1.0.0",
+  "description": "Just an arduino and node test",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "johnny-five": "^0.8.90",
+    "socket.io": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodebots",
+    "arduino",
+    "js",
+    "test"
+  ],
+  "author": "taltk9",
+  "license": "MIT"
+}
